@@ -1,0 +1,433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the dissenting Protestants of Ireland, in reference to a Bill of Indulgence, vindicated from the exceptions alledg'd against it, in a late answer. / By Ioseph Boyse.</title>
+            <author>Boyse, J. (Joseph), 1660-1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01759</idno>
+            <idno type="STC">Wing B4069</idno>
+            <idno type="STC">ESTC R170748</idno>
+            <idno type="EEBO-CITATION">51784410</idno>
+            <idno type="OCLC">ocm 51784410</idno>
+            <idno type="VID">174832</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01759)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174832)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2702:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the dissenting Protestants of Ireland, in reference to a Bill of Indulgence, vindicated from the exceptions alledg'd against it, in a late answer. / By Ioseph Boyse.</title>
+                  <author>Boyse, J. (Joseph), 1660-1728.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Author's name written in under title.</note>
+                  <note>Imperfect: faded, with some loss of text.</note>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Ireland --  17th century.</term>
+               <term>Dissenters, Religious --  Ireland --  17th century.</term>
+               <term>Ireland --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174832:1"/>
+            <pb n="1" facs="tcp:174832:1" rendition="simple:additions"/>
+            <head>THE Caſe of the Diſſenting Proteſtants of IRELAND, In Reference to a Bill of <hi>Indulgence,</hi> Vindicated from the Ex<g ref="char:EOLhyphen"/>ceptions alledg'd againſt it, in a late Anſwer.</head>
+            <p>THE <hi>Author</hi> of the <hi>Caſe</hi> had mention'd two things deſir'd by <hi>Proteſtant Diſsenters,</hi> in reference to a <hi>Bill of Indulgence, viz.</hi>
+            </p>
+            <p>
+               <hi>Firſt, That it give 'em a full ſecurity for the free Exerciſe of their Religion.</hi>
+            </p>
+            <p>
+               <hi>Secondly, That there be no ſuch Clauſes annext to it as may diſable 'em from ſerving their King and their Countrey.</hi>
+            </p>
+            <p>The <hi>Anſwerer</hi> undertakes to ſhew, that tho the <hi>Author</hi> of the <hi>Caſe</hi> have <hi>truly</hi> repreſented their deſires, he has but <hi>weakly argued</hi> for granting of 'em. Now, tho the <hi>Author</hi> is ſo conſcious to himſelf of his own mean abi<g ref="char:EOLhyphen"/>lities, as to be ready to ſuſpect that ſo juſt a Cauſe may have ſuffer'd by being in ſo weak hands; yet he does not ſee any ſuch ſtrength in the <hi>Anſwerer</hi>'s Replys, as ſhou'd diſcourage him from the defence even of thoſe weak Arguments, from any thing the Anſwerer has alledg'd to take off the force of 'em. Whether this opinion be founded on reaſon, or on that partiality to his own Cauſe (which all men are prone to) muſt be left to the Reader's Judgment.</p>
+            <p>Firſt, <hi>The Proteſtant Diſſenters deſire ſuch a Bill of Indulgence as ſhou'd give 'em a full ſecurity for the free Exerciſe of their Religion.</hi>
+            </p>
+            <p>As to this, the <hi>Anſwerer</hi> indeed tells us <q>That he believes, there are few or none but will a<g ref="char:EOLhyphen"/>gree to it; Tho he thinks it plain the Author's Arguments do not evince the neceſſity of it.</q>
+            </p>
+            <p>I might therefore juſtly ſatisfy my ſelf that there are ſome conſiderations or other for which the generality even of thoſe of the Eſtabliſh't Church are willing to grant to Proteſtant Diſſenters the free exerciſe of their Religion. But ſince the <hi>Anſwerer</hi> thinks the former Reaſons alledg'd for it, to be inſufficient, and ſpeaks of ſuch a Toleration as rather in it ſelf a very inconvenient thing, <q>which they are inclin'd to grant more out of compliance with the importunity of thoſe that deſire it, then any ſenſe of it's reaſonableneſs, as Parents humour their Children, in giving 'em things that are pleaſing to their palats, tho prejudicial to their health, only becauſe they eagerly deſire 'em.</q> I ſhall a little examine what he has offer'd againſt thoſe Arguments alledg'd for the <hi>Neceſſity</hi> and <hi>Reaſonableneſs</hi> of it; and I do this the rather, becauſe thoſe <hi>Anſwers</hi> of his ſuggeſt ſeveral common prejudices againſt Proteſtant Diſſenters, which are of late induſtriouſly ſpread, and I fear very deeply rooted in the minds of many, tho founded on very unhappy miſtakes and miſinformation about 'em; ſo that the Removal of'em will probably tend to promote a more charitable temper in Proteſtan<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> towards one another. And this is a deſign fit to be purſued at all times, and never more ſeaſonable then now, when there are ſo earneſt endeavours us'd to heighten our differences in order to obſtruct the happy effects of our mutual confidence and affection.</p>
+            <p>The <hi>Firſt Argument</hi> alledg'd in the <hi>Caſe</hi> is. <q>That ſince the ſecurity of the Proteſtant Intereſt in this Kingdom conſiſts in the Number and Union of Proteſtants, this Bill will promote both, by drawing Proteſtant Diſſenters from abroad, by uniting all Proteſtants at home, and by giving the Goverment a more rooted Intereſt in the affections of Proteſtant Diſſenters.</q>
+            </p>
+            <p>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:174832:2"/>
+               <pb facs="tcp:174832:2"/>
+               <pb n="4" facs="tcp:174832:3"/> the guilt of many intemperate hearts? or ſhou'd not any unchriſtian ſeverities that are chargeable <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> either in former times, ſerve as Sea marks to warn both of the danger of relapſing into thoſe exceſs<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miſguided Zeal, which all unprejudic't and moderate perſons condemn 'em for? And ſhould not all that wiſh for a better underſtanding between Proteſtants rather ſtudy to bury ſuch ungrateful paſſages o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both hands if poſſible, in perpetual ſilence?</p>
+            <p>
+               <hi>Anſwerer.</hi> 3dly, <hi>Whether thoſe that are the moſt moderate among 'em can, with any reaſon expect, but that with the ſame meaſure they have meeted to their Brethren, the Epiſcopal Clergy in their own Coun<g ref="char:EOLhyphen"/>trey, It ſhou'd be meaſured to them again, when they come to ſettle in this Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> I perceive the <hi>Anſwerer</hi> did not well underſtand matters of Fact when he propos'd this dan<g ref="char:EOLunhyphen"/>gerous Queſtion. For if according to his own Rule, the Diſsenting Miniſters from <hi>Scotland</hi> may expect the ſame meaſure here, that is allow'd to the Epiſcopal Clergy there, Then they might preach in Pariſh-Churches, and enjoy the Revenues that belong to 'em, on no other te<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s then <hi>the Oath of Fidelity to the King,</hi> and <hi>their behaving themſelves worthily in Doctrine, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e, and Converſation,</hi> with<g ref="char:EOLhyphen"/>out ever declaring their Judgment in the matters of Church-Government.</p>
+            <p>For on theſe very terms, do all the Epiſcopal Clergy in <hi>Scotland</hi> that were poſseſt of publick Churches when the K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng accepted that Crown, continue and are by Act of Parliament ſecured in the exerciſe of their publick Miniſtry except thoſe that were turn'd out for crimes wherein their Judgment as Epiſco<g ref="char:EOLhyphen"/>pal is not concern'd. But of theſe matters I ſhall have farther occaſion to inform the <hi>Anſwerer</hi> more fully who I perceive is under ſtrange miſapprehenſions about 'em. Whereby it will evidently appear how little occaſion there was for the <hi>Anſwerer</hi>'s concluding this Paragraph with thoſe ſharp words. <q>So that if any Indulgence be granted, 'tis purely the reſult of our own Charitable inclinations and a plain evidence to the World, that our juſt Reſentment of their ſeverity to others, has not al<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nated our affectious from 'em.</q> For he will find 'tis not their ſeverities in <hi>Scotland,</hi> but his miſtakes about 'em that have kindled theſe warm Reſentments in the <hi>Anſwerer,</hi> and in too many others that have been im<g ref="char:EOLhyphen"/>pos'd upon by groundleſs reports.</p>
+            <p>
+               <q>Anſwerer, Neither will this Ind<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lgence probably, tend to the uniting of Proteſtants at home, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s too fully prov'd by Experience in England; where the preſent Tollera<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on has not had that good effect; neither can we in reaſon expect it ſhou'd be more ſucceſsful here. For if it equally extend to all parties and denominations of Proteſtont Diſsenters, their mutual jealouſies of one another, and their reſpective endeavours to propagate their opinions and to promote then temporal intereſts will naturally create great heats and animoſities. But if the benefit of the Indulgence be unequally diſtri<g ref="char:EOLhyphen"/>buted, it will be ſo far from being a means of ſupporting the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t will conſiderably weaken the Gover<g ref="char:EOLhyphen"/>ment by diſobliging all but thoſe that are particularly encourag'd and careſs't.</q>
+            </p>
+            <p>
+               <hi>Repl.</hi> The <hi>Author</hi> of the <hi>Caſe</hi> in his Argument evidently ſpeaks of an <hi>union</hi> between <hi>Conforming</hi> and <hi>Diſſenting Proteſtants</hi> which he ſuppoſes this Bill wou'd promote. And herein he ſuppo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no more then what the <hi>Parliament</hi> of <hi>England</hi> did, who brought in this Bill there as the moſt <hi>effectual means to unite all Proteſtants in affection:</hi> And ſure this Bill muſt be a proper means to attain that end, if mens affections be beſt <hi>united,</hi> when they have no reaſonable ground to apprehend any danger from one another.</p>
+            <p>But the <hi>Anſwerer</hi> ſeems to miſtake him, as if he ſpake of the union of Diſsenting Proteſtants among themſelves. But let him underſtand it either way. <q>The contrary of this (he ſaith) is fully prov'd by experience in England.</q> If he mean that the Bill of Indulgence in <hi>England</hi> has not united the affections of <hi>Conformiſt's</hi> and <hi>Non Conformiſt's,</hi> 'tis eaſily reply'd, that tho it have not wholly remov'd all the animoſitys between 'em, yet it had apparently leſsen'd 'em. They can converſe ſociably, they live together more peaceably, and there is no doubt, much more of mutual love among 'em, then when the proteſtant Diſsenters were every moment in danger of having their perſons impriſon'd and their goods diſtrain'd and ſold.</p>
+            <p>If he mean that the Bill of Indulgence in <hi>England</hi> has not united <hi>Diſsenting Proteſtants</hi> among themſelves. I ſuppoſe the <hi>Anſwerer</hi> is much miſtaken. For thoſe called <hi>Presbyterians</hi> and <hi>Indepen<g ref="char:EOLhyphen"/>dents</hi> never came nearer to an Union and Accommodation of their differences then ſince the Indulgence. 'Tis true ſome other heats have ariſen at <hi>London</hi> about the Explication of the Doct<g ref="char:EOLhyphen"/>rine of Juſtification, as there have been no leſs warm diſputes among thoſe of the Eſtabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht Church about the Explication of a more Important Article, <hi>Viz.</hi> That of the Trinity; but the Indulgence has no way contributed to the one more then the other. And as for this Kingdom the <hi>Anſwerer</hi> muſt be a great ſtranger to it, if he think the Bill of Indulgence here pleaded for wou'd probably occaſion any jealouſe among thoſe for whom 'tis deſired, or create any heat among 'em, They have many years liv'd in intire mutual Friendſhip and as yet ſee no great haz<g ref="char:EOLhyphen"/>ard in their ſmaller differences becoming the fuel of any new flames, if others will not turn Incen<g ref="char:EOLhyphen"/>diaries, and blow the Coals. So that this danger ſeems only a Bug-bear created by the <hi>Anſwerer</hi>'s own Imagination.</p>
+            <p>
+               <q>Anſwerer. But. Secondly; Neither is this Indulgence ſo highly <hi>Reaſonable</hi> as the Author pretends, as may appear by a particular conſideration of the Arguments he makes uſe of to prove it.</q>
+            </p>
+            <pb n="5" facs="tcp:174832:3"/>
+            <p>
+               <hi>For firſt, as the Early Zeal of the Diſſenters in behalf of this Government, may entitle 'em to it's pro<g ref="char:EOLhyphen"/>tection, ſo it cannot be deny'd, but that they have enjoyed it ever ſince the Revolution, and have Receiv'd more then ordinary marks of Royal favour, partly by the free Liberty that's granted 'em throughout the Kingdom,</hi> &amp;c. <hi>as alſo by his Majeſties bounty in allowing Yearly hitherto, a conſiderable Sum for the maintenance of their Miniſters.</hi>
+            </p>
+            <p>
+               <hi>Repl.</hi> And do's the <hi>Anſwerer</hi> think that he has refuted the Argument, by what rather Confirms it<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> If the King have hitherto protected 'em, and augmented to their Miniſters in <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> the Pen<g ref="char:EOLhyphen"/>ſion <hi>K. Charles the</hi> 2d. allow'd 'em, as a mark of the Reſpect he had for their Fidelity and Affecti<g ref="char:EOLhyphen"/>on; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s it not reaſonable that the continuance of the ſame Favour ſhou'd be ſecur'd to 'em by Law, when they have done nothing to render themſelves unworthy of it? It muſt doubtleſs appear ſo, unleſs the <hi>Anſwerer</hi> have a different Opinion of 'em, from what his Majeſty has ſo often expreſs't, by whoſe approbation a <hi>Bill of Indulgence</hi> in their Favour (ſuch as they now deſire) was Tranſmitted to the laſt Parliament here. But if there be any thing in this <hi>Anſwer</hi> to take off the force of this Argument, it muſt be this, That the Toleration the Diſſenters have ſo long en<g ref="char:EOLhyphen"/>joyed, is as much as their Zeal and Fidelity can claim; So that they wou'd have no ground to complain of the Government, tho it ſhou'd refuſe to give 'em any ſecurity for the Continuance of it. And this ſeems to be the <hi>Anſwerer</hi>'s ſenſe, becauſe in Reply to the ſecond Reaſon draw'n from the Indulgence granted to Foreign Proteſtants, he obſerves, <hi>'Tis only granted for 7. Years, in hopes that after the Expiration of that Term, they wou'd declare themſelves Members of the Eſtabliſh't Church,</hi> But what if after thoſe 7 Years the <hi>French Churches</hi> in this Kingdom, chooſe rather to Adhere to the model of their own Diſcipline and Worſhip; will the <hi>Anſwerer</hi> then think 'em unworthy of a renewed <hi>Legal Toleration?</hi> If not, what ſignifies his <hi>Anſwer</hi> to the Argument, That 'tis moſt rea<g ref="char:EOLhyphen"/>ſonable to extend the ſame Favour to his Majeſties <hi>born</hi> Subjects, that we do to <hi>Foreigners.</hi> If he think 'em in that caſe unworthy of it. I wou'd gladly know on what grounds he thinks ſo. What grand Crime wou'd it be, if after ſo many Years, thoſe Faithful Confeſſors of Chriſt ſhou'd ſtill prefer the model of their own Worſhip and Diſcipline, to any other? Would they therefore de<g ref="char:EOLhyphen"/>ſerve to be Treated here as they were in <hi>France<g ref="char:punc">▪</g>
+               </hi> And whatever the <hi>Anſwerer</hi> may think of the forward Inclination of the Fr. Proteſtants to their Church-Government and Worſhip, all the world knows to whoſe Diſcipline and Worſhip their own is moſt conformable. And how far ſo<g ref="char:EOLhyphen"/>ever Temporal Intereſt engages the compliance of ſome of 'em, yet there are few of 'em, but if left to their free Liberty, wou'd chooſe their own. And the moſt of their Miniſters ſwallow the Reordination requir'd of 'em (how ſmoothly ſoever palliated) with great reluctancy, and not without ſome diſguſt againſt the Impoſers of it.</p>
+            <p>Anſwerer Thirdly. <hi>The Papiſt are not in equal Circumſtances of publick Favour, with our Diſſen<g ref="char:EOLhyphen"/>ting Brethren; For as the Liberty they have in the Exerciſe of their Religion, was extorted from the Go<g ref="char:EOLhyphen"/>vernment by the presſing necesſity of publick Affairs, ſo its not Confirm'd to 'em, by any Act of Parliament as this Indulgence is expected, and I ſuppoſe deſigned to be to Proteſtant Diſſenters.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Tis not eaſy to perceive where the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orce of this <hi>Anſwer</hi> lyes. For a <hi>publick Treaty</hi> is a conſiderable ſecurity to the <hi>Papiſts;</hi> and is it not then Reaſonable to grant, if poſſible, a fuller to Proteſtant Diſſenters? When as the <hi>Anſwerer</hi> himſelf inſinuates, the one extorted it from the Go<g ref="char:EOLhyphen"/>vernment; in order to the ſuppreſſing their Rebellion: The other deſerv'd it by their Aſſiſtance in the Reduction of this Kingdom. Is it not reaſonable at leaſt to make this ſmall difference be<g ref="char:EOLhyphen"/>tween tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e who have Deſerv'd ſo ill, and thoſe that have Deſerv'd ſo well of the Govern<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſwerer,</hi> Fourthly, <hi>The Experience that our Diſſenting Brethren, have had of our Tenderneſs to<g ref="char:EOLhyphen"/>wards 'em heretofore, is a ſufficient Argument and Security to 'em of our future Kindneſs.</hi>
+            </p>
+            <p>
+               <hi>Repl.</hi> We muſt beg the <hi>Anſwerers</hi> pardon, if after ſo frequent Experience <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the renewed Storms that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell on our Brethren in <hi>England</hi> during the late Reigns, and of what we ſometimes felt here in <hi>Ireland,</hi> whenever any Court-turn was to be ſerved by the revival of penal ſeverities, we do not think a <hi>general Declaration of tenderneſs</hi> a ſufficient <hi>Security</hi> to us from future perſecution. Eſpecial<g ref="char:EOLhyphen"/>ly when we know not what a change, many Turns in publick Affairs may make in the Paſſions and Intereſts of Men. So that we cannot but apprehend a <hi>Legal</hi> Liberty more deſireable and ſatisfying then an <hi>Arbitrary</hi> one, that's as eaſily recall'd as granted. Tho we muſt in Gratitude add, That none can repoſe a more entire confidence in his Majeſty, and the preſent Government then we do, on whole Juſtice and Goodneſs we can chearfully rely, tho ſome Mens Ill-will ſhou'd obſtruct this Effect of it.</p>
+            <p>Anſwer, <hi>For we conſider our mutual Agreement in the ſame Articles of Faith, and are glad to find this Author is pleaſed to declare, That the ſuppresſing of Proteſtant Diſsenters, by the ſtrict Execution of Penal Laws, is a practice that has a juſt Odium left upon it. But are ſorry that the juſt Odium left upon i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> among us, ſhou'd be wholly confin'd to us, and that this practice ſhou'd have no Cenſure nor Reflection caſt upon it among our Neighbours. And 'tis ſtrange the Author ſhou'd ſay, that there is ſo apparent Contrarie<g ref="char:EOLhyphen"/>ty in it to the Mild and Merciful Genius of our Holy Religion, ſeeing he cannot but know the time when 'twas an avowed doctrine, and a general practice among the Presbyterians and Independents, to barr the members of the Church of</hi> England <hi>from the free exerciſe of divine Worſhip according to their Conſcien<g ref="char:EOLhyphen"/>ces. And 'tis ſtrange that this practice ſhou'd be ſo apparently contrary to our holy Religion, and have ſo miſchievous Effects upon the publick peace here in this Kingdom, and yet he thought ſo great an Evidene of</hi>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:174832:4"/>
+            <pb facs="tcp:174832:4"/>
+            <pb n="8" facs="tcp:174832:5"/>
+            <p>But what does the Anſwerer mean by thoſe Miſdemeanors, which be would have it in their Power to repreſs. If he mean Matters of meer Non-conformity, which he wou'd have ſtill a Power left to repreſs; then we have but too juſt occaſion to ſuſpect the Deſigns of thoſe that wou'd obſtruct the Indulgence. If he mean any other Miſ<g ref="char:EOLhyphen"/>demeanors, a Legal Indulgence will not diſable the Civil Magiſtrate from Repreſſing 'em, much leſs from ſecuring the Eſtabliſht Religion from any Danger that a Tolera<g ref="char:EOLhyphen"/>tion of Proteſtants can expoſe it to.</p>
+            <p>
+               <q>
+                  <hi>Anſwerer,</hi> Laſtly, As to what he ſaith concerning His Majeſties Declaration, I deſire this Author to conſider more ſeriouſly, whether there be not ſome others in the Three Kingdoms, beſides the Proteſtant D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtenters of <hi>Ireland,</hi> to whom one great End of His Majeſties Declaration is yet unaccompliſht, and whether there be a Law made to cover the Proteſtant Epiſcopal Clergy in <hi>Scotland</hi> from Perſecution, on the account of Religion.</q>
+            </p>
+            <p>
+               <hi>Reply,</hi> I doubt not, the <hi>Anſwerer</hi> is by this time ſatisfied, to how little purpoſe this <hi>Queſtion</hi> is askt, and what <hi>Rep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> may be given to it. For no Proteſtants are Perſe<g ref="char:EOLhyphen"/>cuted in <hi>Scotland</hi> on the Account of <hi>Religion,</hi> either by the <hi>Civil</hi> or <hi>Eccleſiaſticals</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<g ref="char:EOLhyphen"/>vernment. Nay, the Meetings of the Epiſcopal Clergy have long been undiſturb'd tho they refuſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own he King's Authority. But ſure our <hi>Anſwerer</hi> cannot expect there ſhould be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Low</hi> to <hi>Tolerate</hi> thoſe, that will not own the <hi>Civil Authority,</hi> by which they are <hi>Tolerated</hi> And were the Diſſenter here ſo diſaffected to the Government they cou'd have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſence to deſire a Legal Toleration.</p>
+            <p>The Second <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>g deſir'd by Proteſtant Diſſenters is, <hi>That there be no ſuch Clauſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> next to this Bill, as wou'd diſable 'em from ſerving their King and their Country.</hi>
+            </p>
+            <p>
+               <q>As to this, The Anſwerer ſaith, That in plain Terms, 'tis no more than this, That where E<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e to Tender Conſciences is the only thing they formerly deſired, They now claim it as their due to be ad<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed alſo into all honourable and profi<g ref="char:EOLhyphen"/>table Employments; and without theſe, whatever Eaſe be given to their Conſciences 'Tis to be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they will have no quiet in their minds.</q>
+            </p>
+            <p>
+               <hi>Reply,</hi> The Proteſtant P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rs of <hi>Ireland</hi> do not (as the <hi>Anſwerer</hi> ſeems to inſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nate here) ſeek any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Priviledg or Favour, but only are unwilling to have a New Yoke put upon 'em They claim nothing as their due, in Reference to the Civil Go<g ref="char:EOLhyphen"/>vernment, but to be Treated at Dutiful Subject, without having any Mark of pub<g ref="char:EOLhyphen"/>lick Infamy, and diſtruſt put upon 'em by a New Law. And if any ſhou'd attempt to do ſo, they may well forgive the Proteſtant Diſſenters, That tho' they have eaſe to their conſcience, yet they ſhou'd have no great quiet in their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for they have their Lives and Fortunes to Secure, of which 'tis no wonder, if they ſhou'd be fearful, when they ſee ſome <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en ſo unwilling to conſult our common Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, in a Kingdom li<g ref="char:EOLhyphen"/>able to ſo frequent Returns of fatal Iriſh Rebellions.</p>
+            <p>The Author of the Caſe propos'd ſeveral Arguments, to ſhew the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>expediency</hi> of any ſuch <hi>Teſt</hi> as ſhall diſable Proteſtant Diſſenters from ſerving their King and their Country. As</p>
+            <p>Firſt, <hi>The Sacrament Teſt in</hi> England <hi>was chiefly deſign'd againſt the P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>piſts.</hi> To which the <hi>Anſwerer</hi> Replies, "That the Diſſenters a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e included in the Body of the Act.</p>
+            <p>
+               <hi>Reply,</hi> None doubts, but that Act enjoyns the Sacramental Teſt. But <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Preface</hi> as well as <hi>Title</hi> of the Act, ſhews That the <hi>End</hi> propos'd, was <hi>the preventing Dangers from Popiſh Recuſants;</hi> which <hi>End</hi> wou'd be ſufficiently attain'd by the <hi>Declaratory Teſt</hi> a<g ref="char:EOLhyphen"/>gainſt Popery in that Act, tho' the Sacrament Teſt were left out.</p>
+            <p>But the <hi>Anſwerer</hi> adds, <q>If the Zeal of the Engliſh Diſſenters againſt Popery in the late times has not exempted 'em from a Sacramental Teſt, our Diſſenting Bre<g ref="char:EOLhyphen"/>thren in this Kingdom, cannot with modeſty expect, that their late Services ſhould entitle 'em to any ſuch Immunities.</q>
+            </p>
+            <p>
+               <hi>Reply,</hi> Even the Zeal of Engliſh Diſſenters, did in His Majeſties Judgment deſerve ſuch a Favour, as the Removal of that Teſt there, which he mov'd his firſt Parlia<g ref="char:EOLhyphen"/>ment to, in his Speech to 'em: But the Proteſtant Diſſenters of <hi>Ireland</hi> who were no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hamper'd with this Clog, as thoſe of <hi>England</hi> were, had the opportunity of ſhewing their Zeal more Remarkably; And 'twere hard to put that very Clog on 'em now, to our freedom from which, we muſt in part aſcribe it, that this whole Kingdom, was not then entirely loſt.</p>
+            <pb n="9" facs="tcp:174832:5"/>
+            <p>Secondly. The Author of the Caſe Argues. That ſuch a Teſt for diſabling Prote<g ref="char:EOLhyphen"/>ſtant Diſſenters for any Publick Services, is againſt the common Proteſtant Intereſt of <hi>Ireland.</hi>
+            </p>
+            <p>This Argument the <hi>Author</hi> more largely inſiſted on, than the <hi>Anſwerer</hi> ſeems wil<g ref="char:EOLhyphen"/>ling, either to Repeat or Conſider. However, Let us hear what he Objects.</p>
+            <p>
+               <hi>Anſwerer,</hi> Our Circumſtances indeed vaſtly differ (as he ſays) from thoſe of <hi>England.</hi> 
+               <q>For here the Eſtabliſht Church is more in danger then there by Proteſtant Diſ<g ref="char:EOLhyphen"/>ſenters as well as by the common Enemy. In <hi>England</hi> one unmixt People doe com<g ref="char:EOLhyphen"/>poſe the Body of the Nation, <hi>&amp;c.</hi> Here we are made up of ſeveral Nations, and there is a daily Acceſſion of great Numbers from a Neighbouring Kingdom of whom the meaner ſort are generally of a different Communion, tho the Gentry, and Nobi<g ref="char:EOLhyphen"/>lity, <hi>&amp;c.</hi> are generally Conformiſts.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> The <hi>Author</hi> of the <hi>Caſe</hi> Argues from the <hi>common Proteſtant Intereſt of</hi> Ireland, That ſince the <hi>Papiſts</hi> in this Kingdom are <hi>Ten,</hi> or perhaps <hi>twenty</hi> to <hi>one Proteſtant;</hi> 'tis therefore neceſſary to give the Proteſtant Intereſt the wideſt Baſis here, by excluding no Proteſtants from Publick Service. That is, if a thouſand Men have ten or twenty thouſand Enemies to ſecure themſelves againſt; 'Tis againſt their Intereſt to divide their Strength, by diſabling three hundred of 'em from being employ'd in any publick Poſt for their common Defence: But the <hi>Anſwerer,</hi> inſtead of making any Reply to this, only tels us what he thinks to be moſt Conducive to the ſeperate Intereſts of one party of Pro<g ref="char:EOLhyphen"/>teſtants; As if the ſeperate Intereſt of that party, were the Intereſt of the whole Body of Prote<g ref="char:EOLhyphen"/>ſtants, or at leaſt, were of farr greater Value and Conſideration, then their common Intereſt.</p>
+            <p>But why may not thoſe of the Eſtabliſht Church ſecure their common Intereſt as proteſtants, with<g ref="char:EOLhyphen"/>out any Danger to their ſeperate Intereſts, as a diſtinct party?</p>
+            <p>While all proteſtants that deſerve well of the Government meet with Encouragement and Fa<g ref="char:EOLhyphen"/>vour, Their united ſtrength will be their Impregnable ſecurity; And yet ſince all Employments are in the diſpoſal of the Government; And ſince the Eſtabliſht Church has ſo abſolutely the Aſcen<g ref="char:EOLhyphen"/>dant in <hi>England,</hi> there is no ground to fear the Government here will be ſo Laviſh and Imprudent in beſtowing their favours, as to encourage the Proteſtant Diſsenters to any degree, that can render them dangerous to the Eſtabliſht Church, or put it into their Power to Act any thing to her prejudice. And yet 'tis moſt reaſonable the Government ſhould encourage 'em ſo farr, as is truly conducive to our common Security; So that, there can be no difficulty in according the Common Proteſtant Inte<g ref="char:EOLhyphen"/>reſt, with the particular Intereſts of the Eſtabliſht Church, Nay thoſe can be no other way ſo Effec<g ref="char:EOLhyphen"/>tualy ſecured unleſs they think their own Strength alone a ſufficient ballance to that of the Iriſh Papiſts But I am ſorry to find, that the <hi>Anſwerer</hi> ſhould reckon the Eſtabliſht Church to be in ſo great danger of thoſe, that have ſo lately helpt to reſtore her to her preſent ſafety and gr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure: Why ſhould he ſo ſoon miſtake thoſe as pernicious Enemys who in the late troubles were <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound to be ſo hearty Friends? I hope theſe are only his own narrow Sentiments concerning the proteſtant <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enters, and that all moderate Conformiſts entertain a more juſt and Charitable Opinion of 'em, having never in this Kingdom, had the leaſt ground for ſuch peeviſh Surmiſes, as thoſe of the <hi>An<g ref="char:EOLhyphen"/>ſwerer.</hi>
+            </p>
+            <p>
+               <hi>Anſwerer,</hi> 
+               <q>Tis poſſible indeed, as he obſerves, That the Iriſh may be more numerous, if there ſhou'd be a general peace; and I may add, The Papiſts will probably grow much more numerous If there ſhou'd be a general Indulgence; and therefore notwithſtanding our Authors Opinion, we cannot think fit to give the Proteſtant Intereſt a wider Baſis here then it has in Holland, <hi>&amp;c.</hi> where all proteſtants are not equally capable of Employments without Religious Teſts.</q>
+            </p>
+            <p>
+               <hi>Reply,</hi> The <hi>Anſwerer</hi> has been oft told, 'Tis no <hi>General</hi> Indulgence the <hi>Author</hi> of the <hi>Caſt</hi> pleads for; and therefore, he reaſons here to no purpoſe; unleſs he imagine, That the <hi>Papiſts</hi> will grow more numerous by a Tolleration to thoſe <hi>Proteſtants,</hi> whoſe Faith is the ſame with that of the E<g ref="char:EOLhyphen"/>ſtabliſht Church; And does he think, That we can eaſily digeſt ſuch a Paradox as this, upon his bare Aſſertion? And for the Caſe of <hi>Holland,</hi> which the <hi>Anſwerer</hi> wou'd here parallel with our own; and where he tels us, There are Religious Teſts. 'Tis eaſily replyed, there is a plain diſparity. For be<g ref="char:EOLhyphen"/>ſides, that their <hi>Teſts</hi> run upon Doctrinal differences; 'Tis evident that thoſe who adhers to the Pro<g ref="char:EOLhyphen"/>teſtant Religion as there Eſtabliſht, are a large Body, to which thoſe that are excluded from publ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>q<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſervice bear no proportions. And conſeqently, There is no great Danger to the State from ſuch a Teſt: Whereas, here the Papiſts are a hundred to Ten, in reſpect of the whole body of Proteſtants; ſo that to diſable all diſsenting ones, were to cut off from the common Proteſtant Intereſt, about a 3d part of its ſtrength, when the whole is rather too little. And the <hi>Anſwerer</hi> h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s as yet given as no other reaſon for doing ſo, but his own groundleſs Fears of a Danger, which as I have ſhewed him, If it more real (as it is not) may be eaſily obviated by the Government.</p>
+            <p>The <hi>Author</hi> having put the Caſe of another <hi>Iriſh Rebellion;</hi> The <hi>Anſwerer</hi> tells us, <q>There is reaſon to believe the Conſideration of the Common Safety, and the grati<g ref="char:EOLhyphen"/>tude of Diſſenters for their Indulgence, wou'd engage 'em to ſhew an equal Zeal as they did before; tho' they ſhou'd not be wholy on equal Terms with thoſe of the E<g ref="char:EOLhyphen"/>ſtabliſht Church, ſince they cou'd not reaſonably hope for ſo kind a Treatment from the Papiſts, as from them.</q>
+            </p>
+            <pb n="10" facs="tcp:174832:6"/>
+            <p>
+               <hi>Reply,</hi> The Proteſtant Diſſenters are not ſo vain, as ever to expect in this King<g ref="char:EOLunhyphen"/>dom, to be <hi>wholly on equal Terms</hi> with thoſe of the Eſtabliſht Church. But can he expect, That any Gentlemen among 'em in ſuch a Caſe as is here propos'd, wou'd raiſe Forces for others to Command 'em, or their Tenants chearfully Riſe with thoſe on whom they have no Dependence, and in whom they can as little Truſt, or can he think, that ſuch Gentlemen will chearfully Raiſe and Command Forces in ſuch an Exi<g ref="char:EOLhyphen"/>gency, when inſtead of any proſpect of having their Services conſider'd or rewarded, they muſt rather expect to pay 500 l. for their Preſumption. What Encouragement is this to induce Men to venture their Lives and Fortunes to ſave their Country, when they are in hazard of being puniſht for endeavouring it: Nay, Who does he think wou'd be tempted to ſtay in a Country where his Danger from a common Enemy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſo great, and where he is put under ſuch a diſability of doing any thing conſiderable to prevent it?</p>
+            <p>Thirdly for the Argument drawn from the <hi>Parliament of England,</hi> the <hi>Author</hi> urges it no farther then as a probable preſumption that they thought no other <hi>Te<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>;</hi> needful to qualify men for Employments in this Kingdom then they there Enjoyn. And if they had thought the <hi>Sacrament Teſt</hi> needfull here, they cou'd eaſily have added it as They have the <hi>Teſt</hi> againſt Popery mentioned in the ſame <hi>Act.</hi> For they were not Ignorant, That it was not in force here. And againſt this there is nothing to the pur<g ref="char:EOLhyphen"/>poſe in the <hi>Anſwerers</hi> Reply.</p>
+            <p>Fourthly, For the <hi>Authors</hi> Argument to prove the <hi>Teſt</hi> unreaſonable. <hi>Viz. That, it will put the Proteſtant Diſſenters into worſe Circumſtances then they are at preſent</hi> The <hi>Anſwerer</hi> ſeems to grant it, but ſuggeſts on the other hand. <q>That a Tolleration without ſuch a Teſt, will put the Members of the Eſtabliſht Church into worſe Cir<g ref="char:EOLhyphen"/>cumſtances then they are in at preſent; Therefore ſince the Conformiſts appear'd as ear<g ref="char:EOLhyphen"/>ly and with equal Zeal for this Goverment as the diſſenters The former (he thinks) will have reaſon to think themſelves ſeverely dealt with, if no other way can be found of rewarding the ſervice of diſſenters, without hazarding the moſt valuable Rights of the Conformiſts, by admitting the diſſenters into ſuch office <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may give e'm power and oppotrunity to alter the whole frame of the preſent Church Govern<g ref="char:EOLhyphen"/>ment.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I cannot imagine how the granting diſſenting Proteſtant<hi>'s</hi> what they now deſire ſhou'd put the Eſtabliſht Church into <hi>worſe Circumſtances then they are now in,</hi> when the Diſſenters deſire no more then that things may continue in the ſame peace<g ref="char:EOLhyphen"/>able and amicable poſture they are in, or (what is the ſame) that a Legal Tolle<g ref="char:EOLhyphen"/>ration may ſecure to 'em what they now enjoy through the favour of the Govern<g ref="char:EOLhyphen"/>ment. And I wou'd fain know what Rights of the Church have been hazarded ſince this Revolution, unleſs the <hi>Anſwerer</hi> ſuppoſes it the peculiar Right of <hi>Confor<g ref="char:EOLhyphen"/>ming Proteſtants,</hi> that none ſhou'd ſerve the Government but themſelves. But why may not the Government employ a few Proteſtant Diſſenters in a few inferior Offices, (as they now do) without admitting them into ſo many and ſo Important ones as ſhould give 'em any power or opportunity to alter the preſent Church-Go<g ref="char:EOLhyphen"/>vernment? Theſe things are eaſily conſiſtent; And the anſwerer knows well enough, There is no ground to fear leſt the Government <hi>here</hi> ſhou'd ſo fart Deviate from the meaſures of <hi>England,</hi> as to be guilty of ſo great a miſtake, as to put the Diſ<g ref="char:EOLhyphen"/>ſenters into any Capacity of overturning the Eſtabliſht Church. Much leſs need the Anſwerer fear that the <hi>Conformiſt</hi> Officers at <hi>Derry, Iniskillen, Crum, &amp;c.</hi> ſhould apprehend themſelves wrong'd that thoſe who were embark't with 'em in the ſame Cauſe, ſhould have ſome ſmall ſhare with 'em in the Rewards of their Courage. None that are generous enough to value true merit wou'd envy the juſt recompence of it. And I perceive the Anſwerer himſelf has ſo much of that good quality as not to think it altogether <hi>inconvenient that ſuch Perſons ſhou'd be excepted from the propoſed Teſt.</hi> But I am ſorry that he ſhould think it <hi>Convenient</hi> to diſable all Diſſenting Proteſtants for the future from Imitating the Commendable Zeal and Courage of their Bretheren, as if he either envy'd the Reputation they have acquir'd, or Imagin'd there would never be any more occaſion for their aſſiſtance <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſerve their Country.</p>
+            <pb n="11" facs="tcp:174832:6"/>
+            <p>For the Argument drawn from the <hi>unfitneſs of the Sacrament Teſt;</hi> I need only ſuggeſt the fol<g ref="char:EOLhyphen"/>lowing particulars to invalidate the <hi>Anſwerer's</hi> Replys.</p>
+            <p n="1">1. The Government may have occaſion to employ many in publick Offices (eſpecially military one<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>), and apparently does employ many, that ſhou'd be rather according to the Rubrick, <hi>debarr'd</hi> from the Sacrament, then thus <hi>driven</hi> to it.</p>
+            <p n="2">2. If thoſe be the fitteſt to be employed by the State, that <hi>give the greateſt Evidences of their Piety to Almighty God;</hi> Then I ſuppoſe the Anſwerer will allow us to eſtimate the Piety of the E<g ref="char:EOLhyphen"/>ſtabliſht Church, by that of thoſe who enjoy Civil and Military preferments in it, And then I hope alſo that ſuch ſhou'd not be excluded from this <hi>Priviledg</hi> who give equal Evidences of their Piety with any of their Fellow ſubjects.</p>
+            <p n="3">3. To make the different <hi>Mode</hi> of Receiving the Sacrament, ſuch a <hi>Teſt</hi> is to make it the En<g ref="char:EOLhyphen"/>gine of a State-party, and conſequently a means to divide the affections of thoſe whom the Sacra<g ref="char:EOLhyphen"/>ment it ſelf ſhou'd unite in mutual Love.</p>
+            <p n="4">4. It will no way juſtifie the reaſonableneſs of making the different <hi>Mode</hi> of Receiving the <hi>Teſt</hi> of all <hi>Offices</hi> in the <hi>State<g ref="char:punc">▪</g>
+               </hi> becauſe the Intereſt of Religion is little concern'd in it, and 'tis but com<g ref="char:EOLhyphen"/>paratively a <hi>trivial</hi> thing.</p>
+            <p>For the more <hi>trivial</hi> it is. The leſs weight ſhou'd any wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Government lay upon it, and the more willing ſhou'd they be to leave Men to their Liberty about it.</p>
+            <p>But ſays the <hi>Anſwerer.</hi> 
+               <q>Why ſhou'd any ſeparate for ſo trivial a matter, and why ſhou'd the State employ thoſe that refuſe to give ſo trivial and inconſiderable a mark of their complyance with it's Orders?</q>
+            </p>
+            <p>
+               <hi>Repl.</hi> The <hi>Anſwerer</hi> ſure cannot be ignorant, that when theſe different Modes of Worſhip, are call'd <hi>trivial,</hi> 'tis in reſpect of their <hi>Intrinſique Importance,</hi> not in reſpect of the <hi>Conſciences</hi> of thoſe that ſcruple 'em. Now that may be in it ſelf an <hi>inconſiderable thing,</hi> which yet the Conſci<g ref="char:EOLhyphen"/>ence of a wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Man may for fear of ſinning, not dare to comply wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. For inſtance, The <hi>Eating</hi> or not <hi>Eating of Blood,</hi> is comparatively a ſmall and trivial matter. And yet many Men no way in<g ref="char:EOLhyphen"/>ferior to the Anſwerer in either Learning or Wiſdom, have thought the <hi>Eating of blood</hi> unlawful among Chriſtians themſelves, Now let us ſuppoſe the number of ſuch were as conſiderable in the Kingdom, as that of Proteſtant Diſſenters is. Wou'd it be any way becoming the prudence of the Government to make this trivial difference the Teſt of a State-party<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Wou'd it be a fit Law for the wiſdom of a Nation to enact. <hi>That none ſhou'd be admitted to ſerve their King and their Countrey, that ſcruples the Eating of a black Pudding.</hi> And yet the Intereſt of the State wou'd be as much con<g ref="char:EOLhyphen"/>cern'd in the deciſion of this Queſtion as that of the Church, and of real Religion in the other. There are indeed ſome, whoſe judgment has that latitude that they cou'd Receive the Sacrament, either Kneeling, Sitting, or Standing. But there are many no way inferior for Wiſdom or Inte<g ref="char:EOLhyphen"/>grity, (whatever the Anſwerer inſinuates to the contrary) who think themſelves oblig'd to Re<g ref="char:EOLhyphen"/>ceive in the poſture moſt ſuitable to a Religious Feaſt, and really ſcruple <hi>Kneeling</hi> in the Act of Re<g ref="char:EOLhyphen"/>ceiving, tho they either kneel or ſtand, at the ſolemn worſhip offer'd before and after. I ſhall not here either eſpouſe their Opinion, or examine the grounds of it, but only infer how unreaſonable a ſtreſs thoſe lay on a dubious Rite, that is comparatively of ſo ſmall moment, who wou'd render all thoſe unſerviceable to their Country, and thereby debar 'em from the common Rights of all Duti<g ref="char:EOLhyphen"/>ful and Well-affected Subjects, who cannot comply with it. Whereas often the beſt of Men are proneſt to ſcruple what the worſt can without any difficulty ſwallow.</p>
+            <p>Laſtly, The <hi>Author</hi> argues, <hi>That the Eſtabliſh't Church will be no way endanger'd by the Indul<g ref="char:EOLhyphen"/>gence.</hi>
+            </p>
+            <p>To which the <hi>Anſwerer</hi> replys. <q>That tho the Horors &amp; Revenues of the Clergy are ſecur'd to 'em, yet none can foreſee the difficulties, the Conforming Clergy may poſſibly conteſt with, in aſſerting the Rites of the Church, if Non Conformiſt's were qual<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied for Civil offices.</q>
+            </p>
+            <p>
+               <hi>Reply,</hi> the Non Conformiſt's have been both before and ever ſince the Revolution qualified for 'em and yet the Clergy have met with no oppoſition in aſſerting the Rites of the Church; and I agree with the Anſwerer that no wiſe man can foreſee any difficulties they are in danger of meet<g ref="char:EOLhyphen"/>ing with for the future.</p>
+            <p>
+               <q>But the Anſwerer adds, beſides we are far leſs concern'd for the ſecurity of our Temporal In<g ref="char:EOLhyphen"/>tereſt then for the Eſtabliſhment of our ancient, holy and peaceable Religion.</q>
+            </p>
+            <p>Reply, If the Eſtabliſhment of their ancient, holy and peaceable Religion be the great matter the Anſwerer is concern'd for. Thoſe who deſire the Toleration will openly declare their embra<g ref="char:EOLhyphen"/>cing the ſame Religion and Faith with 'em. And for the other matters in difference we muſt beg the Anſwerers pardon, if we think that 'tis chiefly Temporal Intereſt has hitherto rendred ſome men ſo deaf to all Propoſals for an accommodation of 'em.</p>
+            <p>I am glad to find, that the <hi>Anſwerer</hi> not only owns the good ſervices of the Diſſenters in this King<g ref="char:EOLhyphen"/>dom, but declares <hi>he wou'd not exclude 'em from a capacity of concurring to preſerve their Countrey a<g ref="char:EOLhyphen"/>gain.</hi> But 'tis ſtrange how he ſhou'd think they wou'd be in the ſame circumſtances (if a like juncture ſhou'd happen) to ſerve their King and Countrey tho not legally qualifi'd for Offices. For they did not then run any riſque of ſevere penalties by commanding the forces they rais'd, as now they wou'd do. Their hands were then looſe, whereas now they will be ty'd up, and a <hi>Legal Pad<g ref="char:EOLhyphen"/>lock</hi> clapt on the ſwords of all that have intereſt enough to bring men into the Field.</p>
+            <pb n="12" facs="tcp:174832:7"/>
+            <p>For what was ſaid of the <hi>peaceable behaviour of Proteſtant Diſsenters in this Kingdom,</hi> ſince the <hi>Anſwerer</hi> does not deny it; Why ſhou'd he go about to detract from it, by imputing it to their want of opportunity to ſhew their turbulency and diſaffection to the Government? For <hi>Scotland,</hi> I have already ſhewn him his miſtakes about their preſent practice there. For <hi>England,</hi> if he refer to the <hi>Civil Wars,</hi> he has been often told, they were begun by <hi>Conformiſts,</hi> with whom it was no wonder if the perſecuted Non-Conformiſts did concurr, to be ſhelter'd from their Perſe<g ref="char:EOLhyphen"/>cutors. And for their Principles in reference to Civil Government. I wou'd deſire the <hi>Anſwerer</hi> to ſhew me any difference between thoſe contain'd in the 39 <hi>Articles,</hi> and in the <hi>Aſſemblys Con<g ref="char:EOLhyphen"/>feſſion of Faith.</hi>
+            </p>
+            <p>The Anſwerer concludes, <hi>That no Motives ought to prevail on 'em to make ſuch large Conceſsions to the Diſſenters, as will in all probability ſhake the foundations of the Eſtabliſht Church.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Nor are any ſuch large Conceſſions deſir'd. But I hope the <hi>Anſwerer</hi> does not take it for one of the foundations of the Eſtabliſht Church, that none ſhou'd ſerve the Government hu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves. For if he do, nothing can in this Kingdom ſo probably ſhake the Eſtabliſht Church, as the making its foundation too narrow, and nothing can ſo effectually ſtrengthen it, as the making it a little wider, to comprehend thoſe whom in this caſe, intereſt as well as gratitude, will ob<g ref="char:EOLhyphen"/>lige to ſupport it.</p>
+            <p>All I ſhall add in reference to the Anſwerer and all others that are of his opinion in this matter is this, If what is here ſuggeſted, do not convince him of the neceſſity and reaſonableneſs of granting to the Proteſtant Diſſenters a Toleration without this Teſt, yet the Proteſtant Diſſenters do at leaſt deſire that a Toleration with it may not be obtruded upon 'em as a favour. For to allude to the Anſwerer's Expreſſions concerning it; ſuch a Toleration they think wou'd be as prejudicial to their health, as 'tis diſtaſteful to their palars; and to force it on 'em, wou'd be to act like thoſe churliſh Parents, <hi>that when their children ask for Bread, give 'em a ſtone; and when they ask for fiſh, give 'em a ſerpent.</hi>
+            </p>
+            <p>Since the writing this Paper, I have ſeen another, (which is only a Tranſcript of the 2d part of the <hi>Anſwer,</hi> with Enlargements indeed, but little or no amendments) Entituled, <hi>The Caſe of the Diſſenters of</hi> Ireland <hi>conſidered, in reference to the Sacramental Teſt.</hi> But ſince there is little oc<g ref="char:EOLhyphen"/>curs in it that is material, more than what has been already examin'd in the Anſwer, I ſhall only add the following Reflections on it.</p>
+            <p n="1">1. The Eſtabliſht Church in <hi>Ireland</hi> can never be in any real danger from Proteſtant Diſſenters while <hi>Ireland</hi> is in ſuch entire dependence on <hi>England,</hi> and nothing can be done <hi>here,</hi> but under the conduct and controll of the Government <hi>there.</hi> Nay, the Eſtabliſht Church will be much more <hi>hazarded</hi> then <hi>ſecur'd</hi> by narrowing the common Proteſtant Intereſt here. So that both the <hi>Anſwerer</hi> and the <hi>Conſiderer</hi> from their eager concern to obviate an <hi>imaginary</hi> and <hi>improbable,</hi> almoſt wholly overlook a real and certain danger.</p>
+            <p n="2">2. The Conſiderer ſeems ill-employed in reviving theſe common but groundleſs jealouſies con<g ref="char:EOLhyphen"/>cerning Proteſtant Diſſenters here. He does not indeed, as the <hi>Anſwerer,</hi> call thoſe he is jealous of, by their own name of <hi>Scots,</hi> but out of a certain tenderneſs ſtyles 'em <hi>Brittiſh.</hi> But whereas he takes a peculiar pleaſure in repeating the out-worn ſtory of the <hi>Solemn League and Covenant.</hi> (as if the Anſwerer had not ſaid enough of it). I wou'd gladly, for once, ask him, whether the moſt intemperate heats of the Scots Covenanters ever came to that extravagant height as the zeal of the Epiſcopal Party in that Kingdom, when they made it death to Preach, or even to Pray in a houſe with five more preſent then thoſe of the Family? And why ſhou'd theſe Gentlemen then delight to rake ſuch matters as theſe out of the Grave of Oblivion in which they have lain ſo long, when they know that Recriminations are ſo obvious, and may be made to ſo great advantage? Since Time and Experience have done ſo much to mature the Judgments, and mellow the Tem<g ref="char:EOLhyphen"/>pers of men on both ſides to more of Wiſdom and Peace; Why ſhou'd ſo much pains be taken to blow up thoſe ſparks that are almoſt wholly extinct? And whereas the Conſiderer ſtarts a new ſuſpicion from the <hi>Aſſemblys Catechiſm,</hi> which he tells us, declares <hi>That a falſe Worſhip is not to be Tolerated, and that they account that of the Eſtabliſh't Church to be ſuch.</hi>
+            </p>
+            <p>To remove this bug-bear alſo out of the way, I need do no more then acquaint him, that 'tis only a <hi>Toleration of a falſe Religion,</hi> that the <hi>Aſſembly</hi> accounts a breach of the 2d Command, But they never accounted that of the Eſtabliſht Church to be ſuch (as the <hi>Conſiderer</hi> here very groundlesſly aſſerts.) Nay, the Proteſtant Diſſenters are ready to give the higheſt aſſurance of the contrary poſſible by ſubſcribing its doctrinal Articles of Religion. Nor do the Diſſenters deſire any other Toleration for their own Worſhip then what they wou'd think themſelves oblig'd in Conſcience to give to all their fellow-Proteſtants. So that this Stumbling-block is eaſily remov'd out of the <hi>Conſiderer's</hi> way.</p>
+            <p n="3">3. The <hi>Conſiderer</hi> has diſcover'd the myſtery of Church-politicks in the Framing of that Act in <hi>England,</hi> which enjoyns the Sacrament-Teſt, the ſpecious Title whereof is only to <hi>prevent dangers from Popiſh Recuſants</hi> but it ſeems the real intent was to choke the Diſſenters as well as them.</p>
+            <p n="4">4. The <hi>Conſiderer</hi> need not have follow'd the <hi>Anſwerer</hi> in boaſting of the inclination of French Proteſtants to <hi>their</hi> worſhip when in this Kingdom there are 4 or 5 Churches that adhere to their <hi>own,</hi> tho under all poſſible diſcouragements; and but one that embrace <hi>theirs,</hi> tho drawn to it by the lure of publick maintenance.</p>
+            <p n="5">
+               <pb n="13" facs="tcp:174832:7"/>5. 'Tis a new way of <hi>mercy</hi> to Diſſenters to <hi>cure the Errors of their minds,</hi> by laying the dangerous Temptation before 'em of counteracting their Judgment or their Intereſt. But ſure the Eſtab<g ref="char:EOLhyphen"/>liſh't Church wou'd have ſmall ground to boaſt of thoſe proſelytes who flee to her only to repair their broken fortunes. If the <hi>Conſiderer, be for rouſing us to the Conſideration of our ſcruples</hi> by new penalties. There is no Argument ſo awakening as the old one of Fire and Faggot, or the mo<g ref="char:EOLhyphen"/>dern one of French Dragooning</p>
+            <p n="6">6. If the Sacrament Teſt be intended as ſuch a happy Expedient to <hi>diſcriminate the good from the bad,</hi> it ſeems to have been hitherto but in apply'd.</p>
+            <p n="7">7. The Author of the Caſe is as much againſt making <hi>ſitting</hi> as <hi>kneeling</hi> or <hi>ſtanding,</hi> the only po<g ref="char:EOLhyphen"/>ſture of thoſe that are admitted to the Lord's Table, and thinks it ſhou'd not come under any of thoſe narrow <hi>Incloſures.</hi>
+            </p>
+            <p n="8">8. For the <hi>mode of receiving,</hi> the <hi>Conſiderers</hi> Arguments run all upon a wrong Suppoſition, that whatſoever is accounted a thing of <hi>inconſiderable importance</hi> in Religion ſhou'd be therefore ac<g ref="char:EOLhyphen"/>counted <hi>indifferent.</hi> So that all this mighty noiſe of the Churches power in determining indifferent things (which it ſeems we muſt grant for fear of bidding farewel to all Government in Church and State) will ſignify little. For there are many things that are comparatively of ſmall moment which yet a good man dare not counteract his Judgment in. And in ſuch things all prudent Church-Governours ſhou'd in imitation of the Apoſtles advice, exerciſe forbearance and tender<g ref="char:EOLhyphen"/>neſs, <hi>See</hi> 14. <hi>Rom.</hi> —And ſuch dubious matters, are of all others moſt unfit to make ſuch pub<g ref="char:EOLhyphen"/>lick <hi>Teſts</hi> of. For thoſe <hi>Teſts</hi> are only ſnares to keep out thoſe whoſe Conſciences are truly fearful of ſin, and to let in thoſe whoſe <hi>Stomacks</hi> (as the Conſiderer ſpeaks) <hi>are not ſo tender and ſqu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amiſh.</hi> Tho on the other hand, I am ſorry to find the Conſiderer ſo ſevere on the doctrine of <hi>occaſional Communion.</hi> For I take thoſe Proteſtants who can occaſionally communicate both with the Eſtabliſht Church and with the Diſſenters, to be the moſt judicious, as well as the moſt mode<g ref="char:EOLhyphen"/>rate perſons, and moſt likely to be the happy inſtruments of healing thoſe Breaches, which per<g ref="char:EOLhyphen"/>ſons of narrower judgments on either hand do unhappily wide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p n="9">9. If the Conſiderer think the Diſſenters ſeparation ſo <hi>miſcheivous</hi> to the ſouls of men, and be more concern'd to prevent their ſeduction, then to ſecure the temporal Intereſt of the Clergy, He ſhou'd be much more earneſt againſt the Indulgence it ſelf then for the Sacrament-Teſt. Whereas he ſeems freely willing to grant the former, that he may hook in the latter. But I hope he'll find that this Toleration will no way increaſe Errors or Irreligion among the People. Nor need any that diligently feed their Flocks fear others ſtealing their hearts from 'em. And if our Author be ſo Zealous to put a period to ſeparation, he need not reduce himſelf from Epiſcopal grandure to Apoſtolical Poverty, 'tis but making things <hi>neceſſary</hi> the only <hi>Terms of Communion,</hi> and leaving things <hi>uneceſſary indifferent,</hi> and both <hi>Peace</hi> and <hi>Charity</hi> wou'd eaſily be reſtor'd. And all this may be done without retrenching either the dignity or Revenues of any of the Clergy.</p>
+            <p n="10">10. If the <hi>Conſiderer</hi> is not offended that a few Diſſenters now enjoy the Effects of His Majeſty's favour he need not fear that the Toleration (as 'tis deſir'd) wou'd <hi>open a door to let the whole Party in;</hi> he may very well truſt the prudence of the Government to diſpence thoſe favours to 'em with as moderate and ſparing a hand for the future as they have done hitherto</p>
+            <p n="11">11. The Conſiderer ſhou'd have been more Ingenuous then to ſuggeſt, that the Author of the Caſe aſcrib'd to Diſſenters alone the <hi>preſerving this Nation from ruin,</hi> when he never ſpeaks more of 'em, then that they <hi>concurr'd</hi> with the Conformiſts in doing it.</p>
+            <p>
+               <hi>Laſtly,</hi> Since the <hi>Conſiderer</hi> very kindly profeſſes that <hi>if a Medium can be found to ſecure the Church and yet content the Diſſenters, he will not be againſt it,</hi> we thankfully own his moderation therein; for if we were not perſwaded that all the favour the diſſenters deſire is fully conſiſtent with the ſecurity of the Eſtabliſh't Church, we ſhou'd never preſume to requeſt or expect it from a Parliament, whoſe Honourable Members are almoſt all of that Communion. But if what we propoſe, will truly unite and Strengthen the Proteſtant Intereſt, we may hope it will be favourably receiv'd by thoſe who in all other Caſes expreſs ſo hearty a Zeal for it.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
